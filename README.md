@@ -1,3 +1,6 @@
 # hangman_migrated
 
-A new Flutter project.
+A Hangman game project migrated from
+https://github.com/tavasolireza/Hangman-Game-Flutter
+
+FOR EDUCATION PURPOSE ONLY
